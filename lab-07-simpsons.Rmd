@@ -1,6 +1,6 @@
 ---
 title: "lab-07-simpsons.Rmd"
-author: "Musab Isah "
+author: "ALJAWHARAH SABR"
 date: "17 March 2021"
 output: pdf_document
 ---
@@ -22,10 +22,11 @@ library(mosaicData)
 
 1.  
 ```{r whickam}
-
+?Whickham
 ```
     
 Your answer:
+The data is observational as the description states that is based on age, smoking, and mortality, which are all observable events and not produced via experiments.
 
 2.  
 ```{r observations}
